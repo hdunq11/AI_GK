@@ -1,5 +1,6 @@
 /venv
 /lb
+/content
 
 venv/
 *.egg-info/
